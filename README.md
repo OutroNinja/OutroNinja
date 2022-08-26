@@ -21,7 +21,6 @@ Trying to learn a little more each day. </ul> </p> </a><br/>
 <details> <summary>📋 Information</summary>
 <h2>Git Hub Stats</h2> 
 <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielSDSXX&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> 
-
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img title="streak" alt="Daniel's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSpen&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" /> </a> </p> </details>
 
 ## Support 
