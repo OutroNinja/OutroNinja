@@ -7,4 +7,6 @@
 
 <details> <summary>💫 My Projects</summary> <p align="left"> <h2>Projects</h2> <p><em> Projects I'm currently working on. Some are not here yet.</p> 
 <h3>Frequent Contributor Of</h3>
+<ul>
+
 </p>
