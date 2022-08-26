@@ -20,4 +20,4 @@ Trying to learn a little more each day. </ul> </p> </a><br/>
 <li>Buy Me A Coffee ☕️</li>
 <li>Become a Patreon 🫖</li>
 
-⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
+<br/>⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
