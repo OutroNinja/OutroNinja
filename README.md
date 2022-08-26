@@ -3,7 +3,7 @@
 <p align = "center"> <a href="https://github.com/OutroNinja"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/DanielSDSXX?color=00adee&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" />
 <a href="https://github.com/OutroNinja"> <img alt = "steam" title="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&colorB=00adee" /> </p>
 
-<h2> About Me </h2> <p align="left"> <p> My name is NINJA. My name is Fábio known as NINJA. I love programming and editing.</p> <ul> <li><strong>
+<h2> About Me </h2> <p align="left"> <p>My name is Fábio known as NINJA. I love programming and editing.</p> <ul> <li><strong>
 Discord Bot Maker</strong> - I am relatively experienced in the Discord Bot Maker app. At the moment no project focused.</li> <li><strong>
 Discord Server Design</strong> - Just a hobby but I do some server designs for Discord.</li> <br/>
  
