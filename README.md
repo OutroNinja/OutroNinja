@@ -3,7 +3,10 @@
 <p align = "center"> <a href="https://github.com/OutroNinja"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/DanielSDSXX?color=00adee&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" />
 <a href="https://github.com/OutroNinja"> <img alt = "steam" title="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&colorB=00adee" /> </p>
 
-<h2> About Me </h2> <p align="left"> <p> My name is Daniel. I love coding, computers, and writing.</p> <ul> <li><strong>Product Management</strong> - I'm interested in product management/development (e.g. coming up with new ideas, improving existing things).</li> <li><strong>Documentation Supporter</strong> - You'll see me frequently contributing to documentation projects, as I enjoy writing.</li> <li><strong><em>Bot Designer for Discord</em></strong> - I'm expirenced in the application <em>Bot Designer for Discord</em>. I also help moderate and manage the BDFD server.</li> <li><strong>Still Learning</strong> - I'm exploring the Software Developement space, I don't consider myself a <em>expirenced</em> programmer. I'll continute exploring new languages and libaries as my journey progresses.</li> </ul> </p> </a><br/>
+<h2> About Me </h2> <p align="left"> <p> My name is NINJA. My name is Fábio known as NINJA. I love programming and editing.</p> <ul> <li><strong>
+Discord Bot Maker</strong> - I am relatively experienced in the Discord Bot Maker app. At the moment no project focused.</li> <li><strong>
+Discord Server Design</strong> - Just a hobby but I do some server designs for Discord.</li> <li><strong><em>Still Learning</em></strong> - I'm expirenced in the application <em>Bot Designer for Discord</em>. I also help moderate and manage the BDFD server.</li> 
+Trying to learn a little more each day. </ul> </p> </a><br/>
 
 <details> <summary>💫 My Projects</summary> <p align="left"> <h2>Projects</h2> <p><em> Projects I'm currently working on. Some are not here yet.</p> 
 <h3>Frequent Contributor Of</h3>
