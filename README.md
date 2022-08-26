@@ -5,4 +5,4 @@
 
 <h2> About Me </h2> <p align="left"> <p> My name is Daniel. I love coding, computers, and writing.</p> <ul> <li><strong>Product Management</strong> - I'm interested in product management/development (e.g. coming up with new ideas, improving existing things).</li> <li><strong>Documentation Supporter</strong> - You'll see me frequently contributing to documentation projects, as I enjoy writing.</li> <li><strong><em>Bot Designer for Discord</em></strong> - I'm expirenced in the application <em>Bot Designer for Discord</em>. I also help moderate and manage the BDFD server.</li> <li><strong>Still Learning</strong> - I'm exploring the Software Developement space, I don't consider myself a <em>expirenced</em> programmer. I'll continute exploring new languages and libaries as my journey progresses.</li> </ul> </p> </a><br/>
 
-<details> <summary>📋 View Streak</summary> 
+<details> <summary>💫 My Projects</summary> <p align="left"> <h2>Projects</h2> <p> cu?</p> </p>
