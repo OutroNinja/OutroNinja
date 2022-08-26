@@ -15,5 +15,9 @@ Trying to learn a little more each day. </ul> </p> </a><br/>
   <ul> <li> Nothing - Really nothing here </li>
 <li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.</p> </details>
 
-<h2> Support </h2> <p align="left"> <p> If you want to help me buy a coffee or something you can donate it to me.</p> <li>
-Support To Buy Ko-fi 🍵</li>
+<h2> Support </h2> <p align="left"> <p> 👍🏻 If you want to help me buy a coffee or something you can donate it to me.</p> 
+<li>Support To Buy Ko-fi 🍵</li>
+<li>Buy Me A Coffee ☕️</li>
+<li>Become a Patreon 🫖</li>
+
+⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
