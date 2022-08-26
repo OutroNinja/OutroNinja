@@ -13,6 +13,8 @@ Trying to learn a little more each day. </ul> </p> </a><br/>
 <details> <summary>💫 My Projects</summary> <p align="left"> <h2>Projects</h2> <p><em> Projects I'm currently working on. Some are not here yet.</p> 
 <h3>Frequent Contributor Of</h3>
   <ul> <li> Nothing - Really nothing here </li>
-<li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.
+<li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.</p>
 
-</p>
+<h2> Support </h2> <p align="left"> <p> If you want to help me buy a coffee or something you can donate it to me.</p> <ul> <li><strong>
+Support To Buy Ko-fi 🍵</strong> - I am relatively experienced in the Discord Bot Maker app. At the moment no project focused.</li> <li><strong>
+Discord Server Design</strong> - Just a hobby but I do some server designs for Discord.</li> <br/>
