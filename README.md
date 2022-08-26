@@ -16,5 +16,4 @@ Trying to learn a little more each day. </ul> </p> </a><br/>
 <li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.</p> </details>
 
 <h2> Support </h2> <p align="left"> <p> If you want to help me buy a coffee or something you can donate it to me.</p> <li>
-Support To Buy Ko-fi 🍵 - I am relatively experienced in the Discord Bot Maker app. At the moment no project focused.</li> <li>
-Discord Server Design - Just a hobby but I do some server designs for Discord.</li>
+Support To Buy Ko-fi 🍵</li>
