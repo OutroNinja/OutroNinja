@@ -5,7 +5,9 @@
 
 <h2> About Me </h2> <p align="left"> <p> My name is NINJA. My name is Fábio known as NINJA. I love programming and editing.</p> <ul> <li><strong>
 Discord Bot Maker</strong> - I am relatively experienced in the Discord Bot Maker app. At the moment no project focused.</li> <li><strong>
-Discord Server Design</strong> - Just a hobby but I do some server designs for Discord.</li> <li><strong><em>Still Learning</em></strong> - I'm expirenced in the application <em>Bot Designer for Discord</em>. I also help moderate and manage the BDFD server.</li> 
+Discord Server Design</strong> - Just a hobby but I do some server designs for Discord.</li> <li><br/>
+ 
+<strong><em>Still Learning</em></strong> - I'm expirenced in the application <em>Bot Designer for Discord</em>. I also help moderate and manage the BDFD server.</li> 
 Trying to learn a little more each day. </ul> </p> </a><br/>
 
 <details> <summary>💫 My Projects</summary> <p align="left"> <h2>Projects</h2> <p><em> Projects I'm currently working on. Some are not here yet.</p> 
