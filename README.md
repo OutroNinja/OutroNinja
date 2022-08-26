@@ -10,10 +10,16 @@ Discord Server Design</strong> - Just a hobby but I do some server designs for D
 <li><strong><em>Still Learning</em></strong> - I'm expirenced in the application <em>Bot Designer for Discord</em>. I also help moderate and manage the BDFD server.</li> 
 Trying to learn a little more each day. </ul> </p> </a><br/>
 
-<details> <summary>💫 My Projects</summary> <p align="left"> <h2>Projects</h2> <p><em> Projects I'm currently working on. Some are not here yet.</p> 
-<h3>Frequent Contributor Of</h3>
-  <ul> <li> Nothing - Really nothing here </li>
+<details> <summary>💫 My Projects</summary>
+<p align="left"> 
+<h2>Projects</h2> 
+<p><em> Projects I'm currently working on. Some are not here yet.</p> 
+<h3>Frequent Contributor Of</h3><ul> 
+<li> Nothing - Really nothing here </li>
 <li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.</p> </details>
+
+<details> <summary>📋 Information</summary>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielSDSXX&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> 
 
 ## Support 
 👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
