@@ -14,7 +14,7 @@ Trying to learn a little more each day. </ul> </p> </a><br/>
 <p align="left"> 
 <h2>Projects</h2> 
 <p><em> Projects I'm currently working on. Some are not here yet.</p> 
-<h3>Frequent Contributor Of</h3><ul> 
+<ul><h3>Frequent Contributor Of</h3></ul>
 <li> Nothing - Really nothing here </li>
 <li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.</p> </details>
 
