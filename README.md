@@ -19,7 +19,7 @@ Trying to learn a little more each day. </ul> </p> </a><br/>
 <li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.</p> </details>
 
 <details> <summary>📋 Information</summary>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielSDSXX&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielSDSXX&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> </details>
 
 ## Support 
 👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
