@@ -19,6 +19,7 @@ Trying to learn a little more each day. </ul> </p> </a><br/>
 <li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.</p></li> </details>
 
 <details> <summary>📋 Information</summary>
+<h2>Information</h2> 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielSDSXX&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Daniel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielSDSXX&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> </details>
 
 ## Support 
