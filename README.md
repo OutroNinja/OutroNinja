@@ -12,8 +12,8 @@ Discord Server Design</strong> - Just a hobby but I do some server designs for D
 <h2>Projects</h2> 
 <p><em> Projects I'm currently working on. Some are not here yet. </em></p> 
 <h3>Frequent Contributor Of</h3>
-<li> Nothing - Really nothing here </li>
-<li> <a href="https://github.com/OutroNinja">Dont Click</a> - Pls just dont click here.</p></li> </details>
+<li> @GlowingRealm </li>
+
 
 <details> <summary>📋 Information</summary>
 <h2>Git Hub Stats</h2> 
