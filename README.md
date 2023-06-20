@@ -13,7 +13,6 @@ Discord Server Design</strong> - Just a hobby but I do some server designs for D
 <p><em> Projects I'm currently working on. Some are not here yet. </em></p> 
 <h3>Frequent Contributor Of</h3>
 <a href="https://github.com/GlowingRealm">@GlowingRealm</a>
-<a href="https://github.com/EmyllyBot">@EmyllyBot</a>
 </details>
 
 
