@@ -12,7 +12,7 @@
 - Good with **HTML**, **CSS** and I do some things in **JavaScript**
 
 - Understand Portuguese, and English (A little Fluent)
-<img src="./img/banner.png" width="300" align="right" />
+
 <br/>
 <img src="./img/repo.png" width="500" />
 <br/>
