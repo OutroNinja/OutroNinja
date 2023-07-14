@@ -7,9 +7,13 @@
   
 - Name **Fábio** know as **NINJA**
 
+- Live in Minas Gerais, Brazil
+
 - Love **Programming and Editing**
 
 - Good with **HTML**, **CSS**, **Python Enthusiast** and I do some things in **JavaScript**
+
+- Have experience with **Photoshop**
 
 - Understand Portuguese, and English (A little Fluent)
 
