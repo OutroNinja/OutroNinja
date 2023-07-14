@@ -1,35 +1,30 @@
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello+there%2C+I'm+NINJA!+%E2%98%95;Working+with+Discord+Projects+%E2%9C%85" alt="Typing SVG" /></a> </p>
+<div>
+<img src="./img/profile.png" width="300" align="right" />
+<br/>
+<img src="./img/aboutme.png" width="500" />
+<br/>
+<br/>
+  
+- Name **Fábio** know as **NINJA**
 
-<p align = "center"> <a href="https://github.com/OutroNinja"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/DanielSDSXX?color=00adee&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" />
-<a href="https://github.com/OutroNinja"> <img alt = "steam" title="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white&colorB=00adee" /> </p>
+- Love **Programming and Editing**
 
-<h2> About Me </h2> <p align="left"> <p>My name is Fábio known as NINJA. I love programming and editing.</p> <ul> <li><strong>
-Discord Bot Maker</strong> - I am relatively experienced in the Discord Bot Maker app. At the moment no project focused.</li> <li><strong>
-Discord Server Design</strong> - Just a hobby but I do some server designs for Discord.</li> <br/>
+- Good with **HTML**, **CSS** and I do some things in **JavaScript**
 
-<details> <summary>💫 My Projects</summary>
-<p align="left"> 
-<h2>Projects</h2> 
-<p><em> Projects I'm currently working on. Some are not here yet. </em></p> 
-<h3>Frequent Contributor Of</h3>
-<a href="https://github.com/GlowingRealm">🏷️ @GlowingRealm</a><br>
-<a href="https://github.com/LothusPlugins">🌱 @LothusPlugins</a>
-</details>
+- Understand Portuguese, and English (A little Fluent)
+<img src="./img/banner.png" width="300" align="right" />
+<br/>
+<img src="./img/repo.png" width="500" />
+<br/>
+<br/>
+  
+- 📗 [***OutroNinja/randomapi***](https://github.com/OutroNinja/randomapi) <br/>
+  An API full of random stuff made for fun
 
-
-<details> <summary>📋 Information</summary>
-<h2>Git Hub Stats</h2> 
-<p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NINJA Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=OutroNinja&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NINJA Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=OutroNinja&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img title="streak" alt="NINJA Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OutroNinja&theme=black-ice&hide_border=true&stroke=0000&background=0d1119&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA" /> </a> </p> </details>
-
-## Support 
-👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
-- Support To Buy Ko-fi 🍵
-- Buy Me A Coffee ☕️
-- Become a Patreon 🫖
-<div align='center'>
- 
- [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white "Support To Buy Ko-fi")](https://ko-fi.com/outroninja)  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://buymeacoffee.com/outroninja)  [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white "Become a Patreon")](https://patreon.com/outroninja)
- 
+<br/><br/>
+  
+<sub> *“Os humanos podem ser irritantes às vezes, mas eles também têm seu charme.” – Elma* </sub>
+<!--
+<img src="https://metrics.lecoq.io/Eilaluth?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&repositories.featured=Eilaluth%2FAyano%2CEilaluth%2FKyoko%2CEilaluth%2FKanna%2CEilaluth%2FHotaru%2CEilaluth%2FMocha&config.timezone=Asia%2FJakart"  />
+-->
 </div>
-⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
