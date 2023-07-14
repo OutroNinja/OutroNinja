@@ -24,7 +24,10 @@
 <br/>
   
 - 📗 [***OutroNinja/randomapi***](https://github.com/OutroNinja/randomapi) <br/>
-  An API full of random stuff made for fun
+  An API full of random stuff made for fun.
+
+- 📘 [***OutroNinja/Mitsu***](https://github.com/OutroNinja/Mitsu) <br/>
+  A multipurpose bot that contains some cool features, created by a beginner!
 
 <br/><br/>
   
