@@ -1,6 +1,5 @@
 <div>
 <img src="./img/profile.png" width="300" align="right"/>
-<img src="./img/banner.png" width="300" align="right" />
 <br/>
 <img src="./img/aboutme.png" width="500" />
 <br/>
@@ -16,6 +15,7 @@
 
 <br/>
 <img src="./img/repo.png" width="500" />
+<img src="./img/banner.png" width="300" align="right" />
 <br/>
 <br/>
   
