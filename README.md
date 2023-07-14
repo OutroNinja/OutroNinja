@@ -7,7 +7,7 @@
   
 - Name **Fábio** know as **NINJA**
 
-- Live in Minas Gerais, Brazil
+- Live in **Minas Gerais**, **Brazil**
 
 - Love **Programming and Editing**
 
