@@ -1,4 +1,3 @@
-![image](https://github.com/OutroNinja/OutroNinja/assets/110637902/b285f9e1-522b-40f5-b67a-cd4122471170)<div>
 <img src="./img/profile.png" width="300" align="right"/>
 <br/>
 <img src="./img/aboutme.png" width="500" />
