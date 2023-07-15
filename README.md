@@ -23,6 +23,9 @@
 <br/>
   
 - 📘 [***OutroNinja/LeafUptime-Template***](https://github.com/OutroNinja/LeafUptime-Template) <br/>
+  A simple uptime bot that uses sqlite!
+
+- 📕 [***MitsuBot/Mitsu***](https://github.com/MitsuBot/Mitsu) <br/>
   A multipurpose bot that contains some cool features, created by a beginner!
 
 <br/><br/>
