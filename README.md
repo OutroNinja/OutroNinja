@@ -26,7 +26,7 @@
   A multipurpose bot that contains some cool features, created by a beginner!
 
 - 📗 [***MitsuBot/SakuraPermissions***](https://github.com/MitsuBot/Mitsu) <br/>
-  Discordjs v14 whitelist, translated to Brazilian Portuguese
+  Discordjs v14 permissions list, translated to Brazilian Portuguese
 
 <br/><br/>
   
