@@ -21,12 +21,12 @@
 <img src="./img/banner.png" width="300" align="right" />
 <br/>
 <br/>
-  
-- 📘 [***OutroNinja/LeafUptime-Template***](https://github.com/OutroNinja/LeafUptime-Template) <br/>
-  A simple uptime bot that uses sqlite!
 
 - 📕 [***MitsuBot/Mitsu***](https://github.com/MitsuBot/Mitsu) <br/>
   A multipurpose bot that contains some cool features, created by a beginner!
+
+- 📗 [***MitsuBot/SakuraPermissions***](https://github.com/MitsuBot/Mitsu) <br/>
+  Discordjs v14 whitelist, translated to Brazilian Portuguese
 
 <br/><br/>
   
