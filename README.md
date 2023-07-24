@@ -25,7 +25,7 @@
 - 📕 [***MitsuBot/Mitsu***](https://github.com/MitsuBot/Mitsu) <br/>
   A multipurpose bot that contains some cool features, created by a beginner!
 
-- 📗 [***MitsuBot/SakuraPermissions***](https://github.com/MitsuBot/Mitsu) <br/>
+- 📗 [***MitsuBot/SakuraPermissions***](https://github.com/MitsuBot/SakuraPermissions) <br/>
   Discordjs v14 permissions list, translated to Brazilian Portuguese
 
 <br/><br/>
