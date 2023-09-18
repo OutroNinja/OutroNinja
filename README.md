@@ -3,6 +3,10 @@
 ## About Me
 
 My name is Fábio known as NINJA. I love programming and editing.
+- I am from Brazil.
+- Web Pages Development.
+- Discord Bot Development.
+- Studying Information Technology intensively.
 
 ## Use to Code
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/outroninja)
