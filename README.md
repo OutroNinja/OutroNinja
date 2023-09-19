@@ -22,7 +22,7 @@ My name is Fábio known as NINJA. I love programming and editing.
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=outroninja.github.io&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/outroninja/outroninja.github.io)
 
 ## 🎵 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu4orkcwrfkjul4t4qiwlt4kle&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tu4orkcwrfkjul4t4qiwlt4kle&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu4orkcwrfkjul4t4qiwlt4kle&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tu4orkcwrfkjul4t4qiwlt4kle&redirect=true)
 <img src=https://github.com/OutroNinja/OutroNinja/blob/main/images/banner_spotify.png align="right">
 
 ## ❤️ Visits Counter
