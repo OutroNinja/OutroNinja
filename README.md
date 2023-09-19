@@ -27,7 +27,6 @@ My name is Fábio known as NINJA. I love programming and editing.
 
 ## ❤️ Visits Counter
 <a href="https://discord.com/users/978685854912499712"><img align="center" width=400 src="https://count.getloli.com/get/@outroninja?theme=gelbooru"></a>
-<a href="https://github.com/OutroNinja"><img align="left" width="100" src="https://github.com/OutroNinja/OutroNinja/blob/main/images/elma_emoji.png"></a>
 
 ## 📫 Contact 
 **Please Contact me on Discord for a quick response:** [outroninja](https://discord.com/users/978685854912499712)
