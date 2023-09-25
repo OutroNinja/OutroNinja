@@ -1,7 +1,6 @@
 <div align="left">
   <a>
-    <img src="https://media.discordapp.net/attachments/1126666947195576340/1155623952270503966/tempest_profile.png">
-         <img src="http://sunny.dbmmods.com:20034/avatar/321400509326032897" width="250" height="auto">
+    <img src="https://media.discordapp.net/attachments/1126666947195576340/1155659194071007232/welcome_banner_tempest.png">
   </a>
 </div>
 
