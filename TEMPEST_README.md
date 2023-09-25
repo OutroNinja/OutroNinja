@@ -23,6 +23,7 @@
   <h2>🎧 Tocando Agora</h2>
   <a>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=qzntab8jymzrwmyip1f5rpdyn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" />
+    <img src="https://media.discordapp.net/attachments/1011356766304477235/1155659682644492339/banner_spotify_tempest.png">
   </a>
 </div>
 
