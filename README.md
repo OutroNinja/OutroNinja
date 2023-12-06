@@ -15,7 +15,7 @@ My name is Fábio known as NINJA. I love programming and editing.
 [![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/outroninja)
 [![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/outroninja)
 
-## 🔥 Top Open Source -
+## 📌 Pinned Repositories
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=outroninja.github.io&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/outroninja/outroninja.github.io)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=outroninja.github.io&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/outroninja/outroninja.github.io)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=outroninja.github.io&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/outroninja/outroninja.github.io)
