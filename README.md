@@ -1,4 +1,4 @@
-<img src="https://github.com/OutroNinja/OutroNinja/blob/main/images/welcome_banner.png">
+<img src="https://github.com/OutroNinja/OutroNinja/blob/main/_images/welcome_banner.png">
 
 ## ☕ About Me
 
@@ -23,7 +23,7 @@ My name is Fábio known as NINJA. I love programming and editing.
 
 ## 🎵 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu4orkcwrfkjul4t4qiwlt4kle&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tu4orkcwrfkjul4t4qiwlt4kle&redirect=true)
-<img src=https://github.com/OutroNinja/OutroNinja/blob/main/images/banner_spotify.png align="right">
+<img src=https://github.com/OutroNinja/OutroNinja/blob/main/_images/banner_spotify.png align="right">
 
 ## ❤️ Visits Counter
 <a href="https://discord.com/users/978685854912499712"><img align="center" width=400 src="https://count.getloli.com/get/@outroninja?theme=gelbooru"></a>
