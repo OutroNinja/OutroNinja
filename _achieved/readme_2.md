@@ -1,6 +1,6 @@
-<img src="./img/profile.png" width="300" align="right"/>
+<img src="https://github.com/OutroNinja/OutroNinja/blob/main/_images/_achieved/profile.png" width="300" align="right"/>
 <br/>
-<img src="./img/aboutme.png" width="500" />
+<img src="https://github.com/OutroNinja/OutroNinja/blob/main/_images/_achieved/aboutme.png" width="500" />
 <br/>
 <br/>
   
@@ -17,8 +17,8 @@
 - Understand Portuguese, and English (A little Fluent)
 
 <br/>
-<img src="./img/repo.png" width="500" />
-<img src="./img/banner.png" width="300" align="right" />
+<img src="https://github.com/OutroNinja/OutroNinja/blob/main/_images/_achieved/repo.png" width="500" />
+<img src="https://github.com/OutroNinja/OutroNinja/blob/main/_images/_achieved/banner.png" width="300" align="right" />
 <br/>
 <br/>
 
