@@ -16,10 +16,9 @@ My name is Fábio known as NINJA. I love programming and editing.
 [![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/outroninja)
 
 ## 📌 Pinned Repositories
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=Portfolio&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/OutroNinja/Portfolio)
+[![BetaPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=Beta-Portfolio&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/OutroNinja/Beta-Portfolio)
 [![Bready](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=Bready&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/OutroNinja/Bready)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=outroninja.github.io&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/outroninja/outroninja.github.io)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=outroninja.github.io&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/outroninja/outroninja.github.io)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=outroninja.github.io&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/outroninja/outroninja.github.io)
 
 ## 🎵 Now Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tu4orkcwrfkjul4t4qiwlt4kle&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31tu4orkcwrfkjul4t4qiwlt4kle&redirect=true)
