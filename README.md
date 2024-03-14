@@ -17,7 +17,7 @@ My name is Fábio known as NINJA. I love programming and editing.
 
 ## 📌 Pinned Repositories
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=Portfolio&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/OutroNinja/Portfolio)
-[![BetaPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=Beta-Portfolio&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/OutroNinja/Beta-Portfolio)
+[![XoDengue](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=XoDengue&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/OutroNinja/XoDengue)
 [![Bready](https://github-readme-stats.vercel.app/api/pin/?username=outroninja&repo=Bready&border_color=FFF&bg_color=0D1117&title_color=C9D1D9&text_color=F&icon_color=FFF)](https://github.com/OutroNinja/Bready)
 
 ## 🎵 Now Playing
